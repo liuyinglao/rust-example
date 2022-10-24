@@ -1,4 +1,4 @@
-# Differences
+# Something new about the language
 
 
 1. `mut` keyword is needed for a variable to be mutable.
